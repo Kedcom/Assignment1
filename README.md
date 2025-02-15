@@ -13,5 +13,5 @@ Open postman and create a new request. Input the localhost URL and set the metho
 
 
 Team Members:
-Harsh Khullar
+Harsh Khullar,
 Kenechukwu Ejinkeonye
